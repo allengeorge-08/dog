@@ -1,0 +1,126 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  width: 100%;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  .hehe{
+   width: 10cm;
+   padding-bottom: 0%;
+   align-items: center;
+  }
+  .gradient-background{
+    display: flex;
+    justify-content: space-around;
+    
+    
+  }
+  .text-bg-primary{
+    background-color: white;
+  }
+
+  .features{
+    margin-bottom: 60px;
+  }
+ .para
+ {
+    text-align: center;
+    font-size: 2em;
+    font-weight: 500;
+ }
+
+ .doggy{
+    width: 1cm;
+    border-radius: 50%;
+    margin-top: 50px;
+  
+ }
+
+ .testi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+ }
+
+ .logoss>*{
+  
+
+ }
+ .logoss{
+display: flex;
+gap: 90px;
+margin-bottom: 170px;
+ }
+ .ny{
+    margin-top: 30px;
+    margin-bottom: 40px;
+ }
+.cont>*{
+   display: flex;
+   flex-direction: row;
+
+}
+.foor{
+    margin-bottom:0%;
+    border: none;
+    padding-bottom: 0%;
+
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  width: 100%;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
+.conti{
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+
+align-items: center;
+margin-bottom: 80px;
+}
+.imgss{
+   
+}
+.hehehe{
+    width:80%;
+}
+
+.bar{
+    position: fixed;
+    width: 100%;
+}
